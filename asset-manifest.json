@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/skytube/static/js/main.f737ecfe.js",
+    "static/media/Harry Potter.mp4": "/skytube/static/media/Harry Potter.d70c09520dbb44b15bbc.mp4",
+    "static/media/ema 2.jpg": "/skytube/static/media/ema 2.6700e6dee17e8bd254ef.jpg",
+    "static/media/suraj.png": "/skytube/static/media/suraj.39545d02ad41fb854afe.png",
+    "static/media/logo.png": "/skytube/static/media/logo.41ac8012136cb7527e35.png",
+    "index.html": "/skytube/index.html",
+    "main.f737ecfe.js.map": "/skytube/static/js/main.f737ecfe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f737ecfe.js"
+  ]
+}
